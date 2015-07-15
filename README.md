@@ -1,5 +1,5 @@
-Freelancer Jekyll theme
-=========================
+Ondrej Ruttkay Homepage ![ci](https://travis-ci.org/0nko/0nko.github.io.svg?branch=master)
+=======================
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
