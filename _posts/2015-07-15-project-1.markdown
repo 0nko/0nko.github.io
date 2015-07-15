@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-07-15
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: July 2015
 client: Side Project
 category: Android Development
 description: Bike computer & turn-by-turn navigation for your phone and your smart watch designed specifically with bikers & runners in mind:
