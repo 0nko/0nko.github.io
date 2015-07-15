@@ -5,8 +5,24 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+client: Side Project
+category: Android Development
+description: Bike computer & turn-by-turn navigation for your phone and your smart watch designed specifically with bikers & runners in mind:
+
+• Trail search with alternative paths and elevations
+• Turn-by-turn navigation
+• Bike computer with real-time ride information
+• Pebble smart watch integration
+• Beautiful offline vector maps
+• GPX file import support
+
+Some of the planned features in future releases:
+
+• Offline multi-point path search
+• Android Wear support
+• BLE heart monitor, cadence and speed sensor integration
+• Ride recording
+• Google Fit integration
+• Offline trail view in Pebble
 
 ---
