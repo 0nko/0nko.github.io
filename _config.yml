@@ -39,9 +39,6 @@ address:
   - line: 120 00, Praha 2
   - line: Czech Republic
 
-# Credits content
-credits: 'Built using Freelancer, free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
 # Build settings
 markdown: kramdown
 permalink: pretty
