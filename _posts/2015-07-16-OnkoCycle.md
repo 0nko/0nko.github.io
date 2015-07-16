@@ -5,7 +5,7 @@ date: 2015-07-15
 img: onkocycle.png
 alt: Salmon
 project-date: July 2015
-platform: Android Development
+platform: Android, Pebble
 package-name: com.ondrejruttkay.onkocycle
 description: "Bike computer & turn-by-turn navigation for your phone and your smart watch designed specifically with bikers & runners in mind:<br />
 <br />
