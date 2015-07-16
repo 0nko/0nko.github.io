@@ -6,8 +6,7 @@ img: onkocycle.png
 alt: Salmon
 project-date: July 2015
 platform: Android Development
-description: |
-Bike computer & turn-by-turn navigation for your phone and your smart watch designed specifically with bikers & runners in mind:
+description: "Bike computer & turn-by-turn navigation for your phone and your smart watch designed specifically with bikers & runners in mind:
 
 - Trail search with alternative paths and elevations
 - Turn-by-turn navigation
@@ -23,5 +22,5 @@ Some of the planned features in future releases:
 - BLE heart monitor, cadence and speed sensor integration
 - Ride recording
 - Google Fit integration
-- Offline trail view in Pebble
+- Offline trail view in Pebble"
 ---
