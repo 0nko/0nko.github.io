@@ -15,7 +15,11 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>
+                            <a href="https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id={{ post.package-name }}">
+                              <img alt="Get it on Google Play"
+                                   src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+                            </a>
+                            <p class="desc">
                                 {{ post.description }}
                             </p>
                             <ul class="list-inline item-details">
@@ -28,10 +32,6 @@
                                     </strong>
                                 </li>
                             </ul>
-                            <a href="https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id={{ post.package-name }}">
-                              <img alt="Get it on Google Play"
-                                   src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
-                            </a>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
