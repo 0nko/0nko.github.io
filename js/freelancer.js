@@ -35,3 +35,11 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$('#resume-button').on('click', function() {
+  ga('send', 'event', 'button', 'click', 'resume-button');
+});
+
+$('#play-store-button').on('click', function() {
+  ga('send', 'event', 'button', 'click', 'play-store-button');
+});
