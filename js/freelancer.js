@@ -43,3 +43,7 @@ $('#resume-button').on('click', function() {
 $('#play-store-button').on('click', function() {
   ga('send', 'event', 'button', 'click', 'play-store-button');
 });
+
+$('#pebble-store-button').on('click', function() {
+  ga('send', 'event', 'button', 'click', 'pebble-store-button');
+});
